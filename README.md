@@ -9,6 +9,10 @@ data processing: processed data (phase 1 and 2)
 ```
 
 ```bash
+presentation: illuatration slides
+```
+
+```bash
 phase1: project code up to progress report
 ```
 
