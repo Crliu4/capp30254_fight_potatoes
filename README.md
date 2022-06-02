@@ -6,9 +6,6 @@ related to the daily movements of stock prices!
 ```bash
 data: raw data
 data processing: processed data (phase 1 and 2)
-```
-
-```bash
 presentation: illuatration slides
 ```
 
