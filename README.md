@@ -11,6 +11,8 @@ presentation: illuatration slides
 
 ```bash
 phase1: project code up to progress report
+        main code: progress_report_update.ipynb
+        data_collection: hydrate_tweets.ipynb and simfin_data.ipynb
 ```
 
 ```bash
